@@ -26,4 +26,5 @@ Sep 2025 - Now
 - Linkedin: https://www.linkedin.com/in/husan-sulaymonov-6a2495264/
 - Twitter: @husanswe
 - Telegram: @husanswe
+- Phone: +998 99 8856458
 
