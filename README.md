@@ -1,4 +1,4 @@
-![Photo]https://github.com/husanswe/husan_portfolio/raw/main/myself2025.jpg
+! [Photo]https://github.com/husanswe/husan_portfolio/raw/main/myself2025.jpg
 
 # Husan - Software Engineer 
 
