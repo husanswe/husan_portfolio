@@ -1,4 +1,4 @@
-https://github.com/HusanSulaymonov/husan-portfolio/raw/main/myself2025.jpg
+https://github.com/husanswe/husan-portfolio/raw/main/myself2025.jpg
 
 # Husan - Software Engineer 
 
